@@ -1,4 +1,5 @@
-# Novice Programmer
+# Hello! my pseudonym is mxcoder,I do programming
+Specialization: Web Development (backend focus, occasional frontend) & Game Development
 
 ## Used Languages and Technologies:
 <div id="languagesandtools">
