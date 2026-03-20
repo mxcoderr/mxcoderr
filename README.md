@@ -9,6 +9,6 @@ Specialization: Web Development (backend focus, occasional frontend) & Game Dev
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>
 </div>
-<div
-<img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" width="15" height="15"/> and <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="15" height="15"/>  as well, but only for specific tasks.
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" width="17" height="15"/> and <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="15" height="15"/>  as well, but only for specific tasks.
 </div>
