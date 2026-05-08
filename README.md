@@ -12,4 +12,4 @@ Specialization: Web Development (backend focus, occasional frontend) & Game Dev
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" width="17" height="15"/> and <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="15" height="15"/>  as well, but only for specific tasks.
 </div>
-
+I also like to create my own DSLs/universal programming languages
